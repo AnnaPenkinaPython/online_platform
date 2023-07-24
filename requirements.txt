@@ -6,3 +6,4 @@ python-dotenv
 django-filter
 django-filter
 djangorestframework-simplejwt
+coverage

@@ -688,6 +688,552 @@
       "change_message": ""
     }
   },
+    {
+    "model": "admin.logentry",
+    "pk": 80,
+    "fields": {
+      "action_time": "2023-07-15T07:48:03.725Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "1",
+      "object_repr": "Подписка 1 на курс Python-разработка (kosareva@yandex.ru)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 81,
+    "fields": {
+      "action_time": "2023-07-15T07:48:39.006Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "2",
+      "object_repr": "Подписка Pro на курс Тестирование (kosareva@yandex.ru)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 82,
+    "fields": {
+      "action_time": "2023-07-15T08:05:54.860Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "3",
+      "object_repr": "Подписка New на курс PHP (admin@sky.pro)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 83,
+    "fields": {
+      "action_time": "2023-07-15T08:06:42.399Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "4",
+      "object_repr": "Подписка Junior на курс Python-разработка (kosareva@yandex.ru)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 84,
+    "fields": {
+      "action_time": "2023-07-15T10:31:49.347Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "4",
+      "object_repr": "Подписка на курс Python-разработка (kosareva@yandex.ru)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 85,
+    "fields": {
+      "action_time": "2023-07-15T10:31:49.500Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "3",
+      "object_repr": "Подписка на курс PHP (admin@sky.pro)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 86,
+    "fields": {
+      "action_time": "2023-07-15T10:31:49.502Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "2",
+      "object_repr": "Подписка на курс Тестирование (kosareva@yandex.ru)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 87,
+    "fields": {
+      "action_time": "2023-07-15T10:31:49.504Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "1",
+      "object_repr": "Подписка на курс Python-разработка (kosareva@yandex.ru)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 88,
+    "fields": {
+      "action_time": "2023-07-15T10:31:58.479Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "5",
+      "object_repr": "Подписка на курс Python-разработка (kosareva@yandex.ru)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 89,
+    "fields": {
+      "action_time": "2023-07-15T10:32:06.691Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "6",
+      "object_repr": "Подписка на курс PHP (kosareva@yandex.ru)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 90,
+    "fields": {
+      "action_time": "2023-07-15T10:32:14.481Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "7",
+      "object_repr": "Подписка на курс Тестирование (admin@sky.pro)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 91,
+    "fields": {
+      "action_time": "2023-07-15T10:33:36.562Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "3",
+      "object_repr": "Тестирование",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u043b\\u044c\\u0437\\u043e\\u0432\\u0430\\u0442\\u0435\\u043b\\u044c\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 92,
+    "fields": {
+      "action_time": "2023-07-15T10:33:43.058Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "2",
+      "object_repr": "PHP",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u043b\\u044c\\u0437\\u043e\\u0432\\u0430\\u0442\\u0435\\u043b\\u044c\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 93,
+    "fields": {
+      "action_time": "2023-07-15T10:49:48.014Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "9",
+      "object_repr": "kosareva@yandex.ru",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 94,
+    "fields": {
+      "action_time": "2023-07-15T10:55:26.695Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "31",
+      "object_repr": "!!!!!!",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 95,
+    "fields": {
+      "action_time": "2023-07-15T10:55:26.713Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "32",
+      "object_repr": "!!!!?!!",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 96,
+    "fields": {
+      "action_time": "2023-07-15T11:08:51.241Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "Работа с БД",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u043b\\u044c\\u0437\\u043e\\u0432\\u0430\\u0442\\u0435\\u043b\\u044c\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 97,
+    "fields": {
+      "action_time": "2023-07-15T11:08:56.800Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "24",
+      "object_repr": "Manual testing",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u043b\\u044c\\u0437\\u043e\\u0432\\u0430\\u0442\\u0435\\u043b\\u044c\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 98,
+    "fields": {
+      "action_time": "2023-07-17T14:48:25.843Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "admin@sky.pro",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 99,
+    "fields": {
+      "action_time": "2023-07-20T16:44:03.828Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "33",
+      "object_repr": "!",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 100,
+    "fields": {
+      "action_time": "2023-07-20T18:55:09.507Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "34",
+      "object_repr": "Подписка на курс Python-разработка (admin@sky.pro)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 101,
+    "fields": {
+      "action_time": "2023-07-20T18:55:09.520Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "33",
+      "object_repr": "Подписка на курс Python-разработка (None)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 102,
+    "fields": {
+      "action_time": "2023-07-20T18:55:09.522Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "32",
+      "object_repr": "Подписка на курс Python-разработка (None)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 103,
+    "fields": {
+      "action_time": "2023-07-20T18:55:09.525Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "31",
+      "object_repr": "Подписка на курс Python-разработка (None)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 104,
+    "fields": {
+      "action_time": "2023-07-20T18:55:09.527Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "30",
+      "object_repr": "Подписка на курс Python-разработка (None)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 105,
+    "fields": {
+      "action_time": "2023-07-20T18:55:09.529Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "29",
+      "object_repr": "Подписка на курс Python-разработка (admin@sky.pro)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 106,
+    "fields": {
+      "action_time": "2023-07-20T18:55:09.530Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "28",
+      "object_repr": "Подписка на курс Python-разработка (None)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 107,
+    "fields": {
+      "action_time": "2023-07-20T18:55:09.532Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "27",
+      "object_repr": "Подписка на курс Python-разработка (admin@sky.pro)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 108,
+    "fields": {
+      "action_time": "2023-07-20T18:55:09.534Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "26",
+      "object_repr": "Подписка на курс Python-разработка (admin@sky.pro)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 109,
+    "fields": {
+      "action_time": "2023-07-20T18:55:09.535Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "25",
+      "object_repr": "Подписка на курс Python-разработка (admin@sky.pro)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 110,
+    "fields": {
+      "action_time": "2023-07-20T18:55:09.537Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "24",
+      "object_repr": "Подписка на курс Python-разработка (admin@sky.pro)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 111,
+    "fields": {
+      "action_time": "2023-07-20T18:55:09.538Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "23",
+      "object_repr": "Подписка на курс Python-разработка (admin@sky.pro)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 112,
+    "fields": {
+      "action_time": "2023-07-20T18:55:09.539Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "22",
+      "object_repr": "Подписка на курс Python-разработка (admin@sky.pro)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 113,
+    "fields": {
+      "action_time": "2023-07-20T18:55:09.541Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "21",
+      "object_repr": "Подписка на курс Python-разработка (admin@sky.pro)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 114,
+    "fields": {
+      "action_time": "2023-07-20T18:55:09.543Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "13",
+      "object_repr": "Подписка на курс Python-разработка (admin@sky.pro)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 115,
+    "fields": {
+      "action_time": "2023-07-20T18:55:09.544Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "12",
+      "object_repr": "Подписка на курс Python-разработка (admin@sky.pro)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 116,
+    "fields": {
+      "action_time": "2023-07-20T18:55:09.546Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "11",
+      "object_repr": "Подписка на курс Python-разработка (admin@sky.pro)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 117,
+    "fields": {
+      "action_time": "2023-07-20T18:55:09.547Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "10",
+      "object_repr": "Подписка на курс Python-разработка (admin@sky.pro)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 118,
+    "fields": {
+      "action_time": "2023-07-20T18:55:09.549Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "9",
+      "object_repr": "Подписка на курс Python-разработка (admin@sky.pro)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 119,
+    "fields": {
+      "action_time": "2023-07-20T18:55:21.174Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "4",
+      "object_repr": "название",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 120,
+    "fields": {
+      "action_time": "2023-07-20T18:55:21.177Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "6",
+      "object_repr": "новое",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 121,
+    "fields": {
+      "action_time": "2023-07-20T18:55:21.179Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "5",
+      "object_repr": "новое название",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
   {
     "model": "auth.permission",
     "pk": 1,
@@ -1012,6 +1558,42 @@
       "codename": "view_payment"
     }
   },
+    {
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+      "name": "Can add course subscription",
+      "content_type": 10,
+      "codename": "add_coursesubscription"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+      "name": "Can change course subscription",
+      "content_type": 10,
+      "codename": "change_coursesubscription"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+      "name": "Can delete course subscription",
+      "content_type": 10,
+      "codename": "delete_coursesubscription"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+      "name": "Can view course subscription",
+      "content_type": 10,
+      "codename": "view_coursesubscription"
+    }
+  },
   {
     "model": "auth.group",
     "pk": 1,
@@ -1105,6 +1687,22 @@
       "expire_date": "2023-07-28T11:37:25.602Z"
     }
   },
+    {
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+      "app_label": "course",
+      "model": "coursesubscription"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "0sgr6uu5xpqf9uh4c97o0wcn6cf319ux",
+    "fields": {
+      "session_data": ".eJxVjDsOwjAQBe_iGln-xD9Kes5g7XptHEC2FCcV4u4QKQW0b2bei0XY1hq3kZc4EzszyU6_G0J65LYDukO7dZ56W5cZ-a7wgw5-7ZSfl8P9O6gw6rcWwXmjQvLOa4UgjdPCYPGkRZCKjHEkyGorikOLXoLECU0Ba4OcEDN7fwCuejcU:1qLJOL:NJZa4QdqrN0jpp8XScMehSJFu9g18lIcYvHk-21LRro",
+      "expire_date": "2023-07-31T08:15:37.533Z"
+    }
+  },
   {
     "model": "course.course",
     "pk": 1,
@@ -1122,7 +1720,7 @@
       "title": "PHP",
       "preview": "",
       "description": "PHP (Hypertext PreProcessor, «препроцессор гипертекста») — скриптовый язык программирования.",
-      "user": 1
+      "user": 9
     }
   },
   {
@@ -1132,7 +1730,7 @@
       "title": "Тестирование",
       "preview": "",
       "description": "Тестируем код",
-      "user": 1
+      "user": 9
     }
   },
   {
@@ -1144,7 +1742,7 @@
       "description": "База данных — некоторый набор перманентных (постоянно хранимых) данных, используемых прикладными программными системами",
       "video": null,
       "course": 1,
-      "user": 1
+      "user": 9
     }
   },
   {
@@ -1180,7 +1778,34 @@
       "description": "Тип тестирования, в котором тест кейсы выполняются тестировщиком вручную, без использования инструментов автоматизации.",
       "video": null,
       "course": 3,
-      "user": 1
+      "user": 9
+    }
+  },
+  {
+    "model": "course.coursesubscription",
+    "pk": 5,
+    "fields": {
+      "user": 9,
+      "course": 1,
+      "is_active": true
+    }
+  },
+  {
+    "model": "course.coursesubscription",
+    "pk": 6,
+    "fields": {
+      "user": 9,
+      "course": 2,
+      "is_active": false
+    }
+  },
+  {
+    "model": "course.coursesubscription",
+    "pk": 7,
+    "fields": {
+      "user": 1,
+      "course": 3,
+      "is_active": true
     }
   },
   {
@@ -1188,7 +1813,7 @@
     "pk": 1,
     "fields": {
       "password": "pbkdf2_sha256$600000$TzrpBG4LSv5lqSzQ8AYRSH$eokSEC+1jeHQucfinjdLaYGOK0HL/i1zeJQJJRDyxtM=",
-      "last_login": "2023-07-14T11:37:25.593Z",
+      "last_login": "2023-07-17T08:15:37Z",
       "is_superuser": true,
       "first_name": "Admin",
       "last_name": "SkyPro",
@@ -1236,7 +1861,8 @@
       "paid_course": 1,
       "paid_lesson": null,
       "payment_amount": 10000,
-      "payment_method": "CASH"
+      "payment_method": "CASH",
+      "payment_status": "Create"
     }
   },
   {
@@ -1248,7 +1874,8 @@
       "paid_course": null,
       "paid_lesson": 2,
       "payment_amount": 5000,
-      "payment_method": "TRANSFER_TO_ACCOUNT"
+      "payment_method": "TRANSFER_TO_ACCOUNT",
+      "payment_status": "Create"
     }
   }
 ]

@@ -38,3 +38,22 @@ class Lesson(models.Model):
 
     def __str__(self):
         return self.title
+
+
+class CourseSubscription(models.Model):
+    """Модель подписки на обновления курса для пользователя"""
+    user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, verbose_name='пользователь', **NULLABLE)
+    course = models.ForeignKey(Course, on_delete=models.CASCADE, verbose_name='курс')
+    is_active = models.BooleanField(default=True, verbose_name='признак подписки')
+
+    class Meta:
+        verbose_name = 'подписка'
+        verbose_name_plural = 'подписки'
+
+    def __str__(self):
+        return f'Подписка на курс {self.course} ({self.user})'
+
+    def delete(self, **kwargs):
+        """Отключение подписки"""
+        self.is_active = False
+        self.save()
