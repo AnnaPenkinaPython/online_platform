@@ -13,7 +13,7 @@ class LessonSerializer(serializers.ModelSerializer):
         fields = ('title', 'preview', 'description', 'video', 'course')
         validators = [VideoValidator(field='video')]
 
-    class CourseSubscriptionSerializer(serializers.ModelSerializer):
+class CourseSubscriptionSerializer(serializers.ModelSerializer):
         """Сериализатор для представления подписки на курс"""
 
         # user = SlugRelatedField(slug_field='email', queryset=User.objects.all(), required=False)
